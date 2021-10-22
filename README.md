@@ -1,4 +1,4 @@
-# R scripts
+# ![alt_text](https://github.com/UCSF-DEB-students/r_scripts/blob/7aac1a7dfcc0c8127f51a5bc38e6db7dab1cb3ff/Rlogo2.png) scripts
 
 Welcome everyone! 
 
